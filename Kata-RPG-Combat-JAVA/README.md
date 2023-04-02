@@ -63,10 +63,4 @@ Retrospective:
         * When reduced to 0 Health, things are Destroyed
         * As an example, you may create a Tree with 2000 Health
 
-```
-Retrospective 
-    - What problems did you encounter? 
-    - What have you learned? Any new technique or pattern? 
-    - Share your design with others, and get feedback on different approaches.
-```# KataRPGJava
-# KataRPGJava
+
